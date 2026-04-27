@@ -125,3 +125,11 @@ Mandar Gade
 ## License
 
 This project is licensed under the MIT License.
+
+## Project Screenshots
+
+![Disease Distribution](disease_distribution.png)
+
+![Feature Importance](feature_importance.png)
+
+![Accuracy Chart](accuracy_chart.png)
